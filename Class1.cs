@@ -18,9 +18,9 @@ namespace olio_ohjelmointi
         public string Etunimi
         {
             set
-                {
-                etunimi = value;
-                }
+            {
+               etunimi = value;
+            }
             get
              {
                 return etunimi;
