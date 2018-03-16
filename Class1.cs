@@ -24,7 +24,8 @@ namespace olio_ohjelmointi
             get
              {
                 return etunimi;
-            }
+             }
+
         }
         public string Sukunimi
         {
@@ -35,7 +36,8 @@ namespace olio_ohjelmointi
             get
             {
                 return sukunimi;
-            }
+            }
+
         }
         public basic_class() //oletuskonstruktori
         {
