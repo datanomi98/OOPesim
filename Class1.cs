@@ -35,9 +35,8 @@ namespace olio_ohjelmointi
             }
             get
             {
-                return sukunimi;
+               return sukunimi;
             }
-
         }
         public basic_class() //oletuskonstruktori
         {
