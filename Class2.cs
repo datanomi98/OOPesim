@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace olio_ohjelmointi
 {
         //näin voit käyttää toisen classin sisältämiä functiota ilman että niitä tarvitsee kirjoittaa uudestaan
+        //tätä kutsutaan periytymiseksi.
         class super_class : basic_class
         {
             public void neljasfunctio()
